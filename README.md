@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my skills, projects, and contact information. Built with HTML, CSS, and JavaScript, this portfolio features a clean design with smooth animations and interactive elements.
 
-![Portfolio Preview](./screenshots/portfolio-preview.png)
+
 
 ## Features
 
@@ -27,7 +27,7 @@ An eye-catching introduction with my name, role as a Web Developer, and brief de
 ### About Section
 Personal introduction with my profile image, educational background (BCA student at Arcade Business College, affiliated to Patliputra University), and my passion for web development.
 
-![About Section](./screenshots/about-section.jpg)
+
 
 ### Projects Section
 Showcase of my web development projects including:
@@ -35,7 +35,7 @@ Showcase of my web development projects including:
 - Gamics - Gaming Website (HTML, CSS, JavaScript)
 - Temperature Converter Application (HTML, CSS, JavaScript)
 
-![Projects Section](./screenshots/projects-section.jpg)
+![Projects Section](https://github.com/dabhigithub/PERSONAL_PORTFOLIO_WEBPAGE/blob/9246de0cb2895bc8f7da1b40e47f9389ffc201c4/screenshots/projects-section.png)
 
 ### Contact Section
 A dual-column contact section with a form for inquiries and personal contact information including:
@@ -44,7 +44,7 @@ A dual-column contact section with a form for inquiries and personal contact inf
 - Location: Patna, Bihar
 - Links to GitHub and LinkedIn profiles
 
-![Contact Section](./screenshots/contact-section.jpg)
+![Contact Section](https://github.com/dabhigithub/PERSONAL_PORTFOLIO_WEBPAGE/blob/9246de0cb2895bc8f7da1b40e47f9389ffc201c4/screenshots/contact-section.png)
 
 ## Technical Implementation
 
