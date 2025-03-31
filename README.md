@@ -1,3 +1,21 @@
+## Abhishek's Portfolio Website
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: ABHISHEK KUMAR
+
+*INTERN ID*: CT08WSD
+
+*DOMAIN*: FRONTEND WEB DEVELOPMENT
+
+*DURATION*: 4 WEEKS 
+
+*MENTOR*: NEELA SANTOSH
+
+***********************************************************************************************************************************************
+
+
+
 # Abhishek's Portfolio Website
 
 A modern, responsive personal portfolio website showcasing my skills, projects, and contact information. Built with HTML, CSS, and JavaScript, this portfolio features a clean design with smooth animations and interactive elements.
